@@ -1,0 +1,28 @@
+INSERT INTO area (
+	shop_id,
+	user_id,
+	shop_name,
+	shop_phonetic,
+	category,
+	tel,
+	address,
+	link,
+	event_name,
+	event_date,
+	event_place,
+	content
+)
+VALUES (
+	6,
+	'nakanishi',
+	'中西病院',
+	'nakanishibyoin',
+	'hospital',
+	678912345,
+	'nakanishi@mail',
+	'http://www.nakanishi.co.jp',
+	''
+	''
+	''
+	''
+)

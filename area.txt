@@ -1,0 +1,28 @@
+INSERT INTO area (
+	shop_id,
+	user_id,
+	shop_name,
+	shop_phonetic,
+	category,
+	tel,
+	address,
+	link,
+	event_name,
+	event_date,
+	event_place,
+	content
+)
+VALUES (
+	1,
+	'tanaka',
+	'田中不動産',
+	'tanakahudousan',
+	'jyukyo',
+	123456789,
+	'tanaka@mail',
+	'http://www.tanaka.co.jp',
+	''
+	''
+	''
+	''
+)
